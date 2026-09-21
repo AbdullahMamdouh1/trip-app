@@ -1,0 +1,61 @@
+{
+  "appName": "TRIPU",
+  "skip": "Skip",
+  "next": "Next",
+  "signUpOrLogIn": "Sign Up / Log In",
+  "onboardingTitle1": "Welcome to TRIPU",
+  "onboardingSubtitle1": "Need a quick ride or a car with a driver for hours or days? We’ve got you covered.",
+  "onboardingTitle2": "Rent Cars with Drivers",
+  "onboardingSubtitle2": "Enjoy the convenience of renting a car with a professional driver for hours or days.",
+  "onboardingTitle3": "Safe, Reliable, and Convenient",
+  "onboardingSubtitle3": "Professional Drivers, Well-Maintained Cars and Easy Payments",
+  "online": "Online",
+  "offline": "Offline",
+  "acceptFor": "Accept for {price} EGP",
+  "@acceptFor": {
+    "placeholders": {
+      "price": { "type": "int" }
+    }
+  },
+  "offerYourFare": "Offer your fare",
+  "customerOffer": "Customer's offer: EGP{price}",
+  "@customerOffer": {
+    "placeholders": {
+      "price": { "type": "int" }
+    }
+  },
+  "offer": "Offer",
+  "offeringYourFare": "Offering your fare",
+  "waitingForReply": "Waiting for the replay",
+  "pickupTime": "Pickup time: ~ {time} min.",
+  "@pickupTime": {
+    "placeholders": {
+      "time": { "type": "String" }
+    }
+  },
+  "swapToStartTrip": "Swap to start your trip",
+  "rides": "Rides",
+  "rentByTime": "Rent by time",
+  "rentByDays": "Rent by days",
+  "wallet": "Wallet",
+  "tripUCash": "TripU Cash",
+  "addFunds": "Add Funds",
+  "earnedToday": "EARNED TODAY",
+  "checkAll": "Check all",
+  "transactionHistory": "Transaction History",
+  "today": "Today",
+  "requestsHistory": "Requests history",
+  "settings": "Settings",
+  "callSupport": "Call Support",
+  "inviteAFriend": "Invite a Friend",
+  "signOut": "Sign Out",
+  "tripsCount": "{count} Trip",
+  "@tripsCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "driver": "Driver",
+  "passenger": "Passenger"
+
+}
